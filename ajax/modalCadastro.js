@@ -1,12 +1,5 @@
 function modalCadastro(){
-    
-
-    return'<section>
-        <div class="modalContainer">
-        
-        </div>
-    </section>
-    ';
+    return'<section> <div class="modalContainer"> </div> </section> ';
     
 }
 
